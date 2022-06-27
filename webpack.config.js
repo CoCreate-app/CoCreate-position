@@ -13,7 +13,7 @@ module.exports = {
     filename: isProduction ? "[name].min.js" : "[name].js",
     libraryTarget: "umd",
     libraryExport: "default",
-    library: ["CoCreate", "modal"],
+    library: ["CoCreate", "position"],
     globalObject: "this",
     // publicPath: 'https://server.cocreate.app/CoCreateJS/dist/'
   },

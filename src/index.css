@@ -1,46 +1,10 @@
-#modal-viewport {
-	/*position: relative;*/
-	z-index: 8;
-	height: -moz-available;   
-	height: calc(100vh - 50px);   
-  height: -webkit-fill-available;  
-  height: fill-available;
-  width: -moz-available;   
-  width: -webkit-fill-available;  
-  width: fill-available;
-	pointer-events: none;
-	top: 0;
-}
-
-.hide-nav + #modal-viewport{
-	margin-top:0px;
-	height: 100vh;   
-	max-height: -moz-available;   
-  max-height: -webkit-fill-available;  
-  max-height: fill-available;
-
-}
-
-.modal.selected {
-    z-index: 10;
-    border-color: purple;
-    pointer-events: auto;
-
-}
-
-/** modal title **/
-.modal-ghost {
+.snap-ghost {
 	display: none;
 	background: #999;
 	opacity: 0;
-  /*pointer-events: none;*/
- /* width: 300px;*/
-	/*height: 200px;*/
 	top: 0px;
 	left: 0px;
 	z-index: 20;
-	
-
 	position: absolute;
 	margin: 0;
 	padding: 0;
@@ -53,7 +17,7 @@
 }
 
 
-.modal-drag-area {
+[drag-area] {
   position: absolute;
   background-color: transparent;
   min-height: 10px;
@@ -63,33 +27,4 @@
   right: 0;
   height: 20px;
   cursor: move;
-}
-
-.modal-parked {
-  width: 50px !important;
-  height: 50px !important;
-  border-radius: 50px;
-  z-index: 100 !important;
-}
-
-.modal-parked * {
-  display: none;
-}
-
-.parked-closeBtn {
-  width: 20px;
-  height: 20px;
-  border-radius: 20px;
-  position: absolute;
-  background-color: #ddd;
-  right: -3px;
-  top: -3px;
-  
-  display: none;
-}
-.modal-parked:hover > .parked-closeBtn{
-  display: flex!important;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
 }

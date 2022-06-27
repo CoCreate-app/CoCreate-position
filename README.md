@@ -1,40 +1,40 @@
 # CoCreate-position
 
-A draggable, movable and resizable modal. customizable via attributes, great for popups, alerts, multitasking and displaying multiple views. Take it for a spin in our [playground!](https://cocreate.app/docs/modal)
+A draggable, movable and resizable position. customizable via attributes, great for popups, alerts, multitasking and displaying multiple views. Take it for a spin in our [playground!](https://cocreate.app/docs/position)
 
-![minified](https://img.badgesize.io/https://cdn.cocreate.app/modal/latest/CoCreate-position.min.js?style=flat-square&label=minified&color=orange)
-![gzip](https://img.badgesize.io/https://cdn.cocreate.app/modal/latest/CoCreate-position.min.js?compression=gzip&style=flat-square&label=gzip&color=yellow)
-![brotli](https://img.badgesize.io/https://cdn.cocreate.app/modal/latest/CoCreate-position.min.js?compression=brotli&style=flat-square&label=brotli)
+![minified](https://img.badgesize.io/https://cdn.cocreate.app/position/latest/CoCreate-position.min.js?style=flat-square&label=minified&color=orange)
+![gzip](https://img.badgesize.io/https://cdn.cocreate.app/position/latest/CoCreate-position.min.js?compression=gzip&style=flat-square&label=gzip&color=yellow)
+![brotli](https://img.badgesize.io/https://cdn.cocreate.app/position/latest/CoCreate-position.min.js?compression=brotli&style=flat-square&label=brotli)
 ![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-position?style=flat-square)
 ![License](https://img.shields.io/github/license/CoCreate-app/CoCreate-position?style=flat-square)
 ![Hiring](https://img.shields.io/static/v1?style=flat-square&label=&message=Hiring&color=blueviolet)
 
 ![CoCreate-position](https://cdn.cocreate.app/docs/CoCreate-position.gif)
 
-## [Docs & Demo](https://cocreate.app/docs/modal)
+## [Docs & Demo](https://cocreate.app/docs/position)
 
-For a complete guide and working demo refer to the [doumentation](https://cocreate.app/docs/modal)
+For a complete guide and working demo refer to the [doumentation](https://cocreate.app/docs/position)
 
 ## CDN
 
 ```html
-<script src="https://cdn.cocreate.app/modal/latest/CoCreate-position.min.js"></script>
+<script src="https://cdn.cocreate.app/position/latest/CoCreate-position.min.js"></script>
 ```
 
 ```html
-<script src="https://cdn.cocreate.app/modal/latest/CoCreate-position.min.css"></script>
+<script src="https://cdn.cocreate.app/position/latest/CoCreate-position.min.css"></script>
 ```
 
 ## NPM
 
 ```shell
-$ npm i @cocreate/modal
+$ npm i @cocreate/position
 ```
 
 ## yarn
 
 ```shell
-$ yarn install @cocreate/modal
+$ yarn install @cocreate/position
 ```
 
 # Table of Contents

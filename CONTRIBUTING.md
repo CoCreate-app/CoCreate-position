@@ -11,7 +11,7 @@ In the examples below, substitute your Github username for `contributor` in URLs
 Fork the [project on Github](https://github.com/CoCreate-app/CoCreate-position) and check out your copy.
 
 ```
-git modal https://github.com/contributor/CoCreate-position.git
+git position https://github.com/contributor/CoCreate-position.git
 cd CoCreate-position
 git remote add upstream https://github.com/CoCreate-app/CoCreate-position.git
 ```

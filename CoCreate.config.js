@@ -12,12 +12,12 @@ module.exports = {
             "key": "src",
             "data":{
                 "name": "index.html",
-                "path": "/docs/modal/index.html",
+                "path": "/docs/position/index.html",
                 "domains": [
                     "*",
                     "general.cocreate.app"
                 ],
-                "directory": "/docs/modal",
+                "directory": "/docs/position",
                 "content-type": "text/html",
                 "public": "true",
                 "website_id": "5ffbceb7f11d2d00103c4535"
