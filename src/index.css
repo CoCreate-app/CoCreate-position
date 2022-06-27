@@ -18,13 +18,5 @@
 
 
 [drag-area] {
-  position: absolute;
-  background-color: transparent;
-  min-height: 10px;
-  z-index: 10;
-  left: 0;
-  top: 0;
-  right: 0;
-  height: 20px;
   cursor: move;
 }
