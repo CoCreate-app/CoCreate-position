@@ -1,6 +1,6 @@
 # CoCreate-position
 
-A draggable, movable and resizable position. customizable via attributes, great for popups, alerts, multitasking and displaying multiple views. Take it for a spin in our [playground!](https://cocreate.app/docs/position)
+Make any element draggable and movable. Customizable via HTML5 attributes or Javascript, great for creating moveable popups, alerts, etc. Take it for a spin in our [playground!](https://cocreate.app/docs/position)
 
 ![minified](https://img.badgesize.io/https://cdn.cocreate.app/position/latest/CoCreate-position.min.js?style=flat-square&label=minified&color=orange)
 ![gzip](https://img.badgesize.io/https://cdn.cocreate.app/position/latest/CoCreate-position.min.js?compression=gzip&style=flat-square&label=gzip&color=yellow)
