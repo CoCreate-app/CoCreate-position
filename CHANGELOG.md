@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/CoCreate-app/CoCreate-position/compare/v1.0.5...v1.0.6) (2022-09-30)
+
+
+### Bug Fixes
+
+* bump [@cocreate](https://github.com/cocreate) dependencies ([c27b863](https://github.com/CoCreate-app/CoCreate-position/commit/c27b863949ced3997d0f2f98509a4db9875a39cb))
+
 ## [1.0.5](https://github.com/CoCreate-app/CoCreate-position/compare/v1.0.4...v1.0.5) (2022-09-30)
 
 
