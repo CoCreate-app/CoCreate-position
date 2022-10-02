@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/CoCreate-app/CoCreate-position/compare/v1.0.10...v1.0.11) (2022-10-02)
+
+
+### Bug Fixes
+
+* minor bug fixes ([5444aa9](https://github.com/CoCreate-app/CoCreate-position/commit/5444aa93a6677fd8d1c203a6fee557fa1e958fb8))
+
 ## [1.0.10](https://github.com/CoCreate-app/CoCreate-position/compare/v1.0.9...v1.0.10) (2022-10-02)
 
 
