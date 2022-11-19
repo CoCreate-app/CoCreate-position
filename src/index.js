@@ -27,4 +27,4 @@ observer.init({
 
 init()
 
-export default position;
+export default {position};
