@@ -25,6 +25,15 @@ observer.init({
 	}
 });
 
+observer.init({
+	name: "positionAttributes",
+	observe: ['attributes'],
+	attributeName: ['moveable', 'positionable'],
+	callback: mutation => {
+		initElement(mutation.target);
+	}
+});
+
 init()
 
-export default {position};
+export default position;
