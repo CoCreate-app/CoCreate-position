@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-position/compare/v1.0.11...v1.1.0) (2022-11-21)
+
+
+### Features
+
+* incrementally increase z-index of movable elements ([ef33909](https://github.com/CoCreate-app/CoCreate-position/commit/ef339096868507078b0db780bdf593a06a9ff68c))
+* observe attributes moveable and positionable ([2ffcb30](https://github.com/CoCreate-app/CoCreate-position/commit/2ffcb3022eaff83101e656749f6c4719380dbb90))
+
 ## [1.0.11](https://github.com/CoCreate-app/CoCreate-position/compare/v1.0.10...v1.0.11) (2022-10-02)
 
 
