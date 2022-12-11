@@ -12,8 +12,8 @@ function initElements(elements) {
         initElement(element)
 }
   
-function initElement(element){
-    new position(element, element.parentElement);
+function initElement(element) {
+	element.position = new position(element, element.parentElement);
 }
 
 observer.init({
