@@ -1,3 +1,11 @@
+## [1.1.20](https://github.com/CoCreate-app/CoCreate-position/compare/v1.1.19...v1.1.20) (2022-12-11)
+
+
+### Bug Fixes
+
+* appled postion as a refrnce in the element ([ab61173](https://github.com/CoCreate-app/CoCreate-position/commit/ab6117334821770db25fa793e5f22997f4d5ed1e))
+* bump dependencies ([a44f4a2](https://github.com/CoCreate-app/CoCreate-position/commit/a44f4a2579db98989ef8517efb5cb6e1e7574ee3))
+
 ## [1.1.19](https://github.com/CoCreate-app/CoCreate-position/compare/v1.1.18...v1.1.19) (2022-12-09)
 
 
