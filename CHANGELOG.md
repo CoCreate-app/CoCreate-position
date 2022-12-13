@@ -1,3 +1,10 @@
+## [1.1.23](https://github.com/CoCreate-app/CoCreate-position/compare/v1.1.22...v1.1.23) (2022-12-13)
+
+
+### Bug Fixes
+
+* removed un used devDependencies ([051bf4a](https://github.com/CoCreate-app/CoCreate-position/commit/051bf4a26e49bdfc5dc7951580b9d70625faeb37))
+
 ## [1.1.22](https://github.com/CoCreate-app/CoCreate-position/compare/v1.1.21...v1.1.22) (2022-12-13)
 
 
