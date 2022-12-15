@@ -1,3 +1,10 @@
+## [1.1.24](https://github.com/CoCreate-app/CoCreate-position/compare/v1.1.23...v1.1.24) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([4cb2219](https://github.com/CoCreate-app/CoCreate-position/commit/4cb2219bccf2b076e35fc95fe129fbb7e0c763f6))
+
 ## [1.1.23](https://github.com/CoCreate-app/CoCreate-position/compare/v1.1.22...v1.1.23) (2022-12-13)
 
 
