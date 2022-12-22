@@ -1,3 +1,10 @@
+## [1.1.27](https://github.com/CoCreate-app/CoCreate-position/compare/v1.1.26...v1.1.27) (2022-12-22)
+
+
+### Bug Fixes
+
+* update demos and bump dependencies ([3bd8d63](https://github.com/CoCreate-app/CoCreate-position/commit/3bd8d639ae7710e448071231e27dc1c636b9ee95))
+
 ## [1.1.26](https://github.com/CoCreate-app/CoCreate-position/compare/v1.1.25...v1.1.26) (2022-12-21)
 
 
