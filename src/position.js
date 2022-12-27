@@ -31,7 +31,6 @@ function position(el, container, options) {
   this.clickedInfo = null;
   this.preSnapped = null;
   this.isSnap = false;
-  this.isHeader = true;
 
   this._createGhost(this.container.getAttribute("data-ghost-class"));
   this._initEvent();
@@ -136,7 +135,7 @@ position.prototype = {
         this.isSnap = true;
       }
 
-      var ghost_info = {
+      let ghost_info = {
         x: this.rect.x,
         y: this.rect.y,
         w: this.rect.width,
@@ -205,7 +204,7 @@ position.prototype = {
   __animate: function () {
     let c_info = this.clickedInfo;
 
-    var eventName = null;
+    let eventName = null;
 
     if (c_info && c_info.isMoving) {
       /** 
@@ -273,10 +272,7 @@ position.prototype = {
   },
 
   _isMovable() {
-    var width = this.rect.width;
-    // if (this.isHeader) {
-    //   width -= 120;
-    // }
+    let width = this.rect.width;
     return this.point.x > 0 && this.point.x < width && this.point.y > 0 && this.point.y < this.dragAreaHeight;
   },
 
@@ -285,12 +281,12 @@ position.prototype = {
    * move: element-moving, element-moveend, element-movestart
    **/
   createEvent(eventName) {
-    var event = new CustomEvent(eventName, { detail: { element: this.el, instance: this } });
+    const event = new CustomEvent(eventName, { detail: { element: this.el, instance: this } });
     this.el.dispatchEvent(event);
   },
 
   _createGhost: function (ghostClass) {
-    var node = document.createElement("div");
+    let node = document.createElement("div");
     if (!ghostClass) {
       ghostClass = "snap-ghost";
     }
