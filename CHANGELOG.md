@@ -1,3 +1,11 @@
+## [1.1.31](https://github.com/CoCreate-app/CoCreate-position/compare/v1.1.30...v1.1.31) (2022-12-27)
+
+
+### Bug Fixes
+
+* bump dependencies ([62bc69b](https://github.com/CoCreate-app/CoCreate-position/commit/62bc69b73b8ce36b3345f41f81e906595d71823d))
+* removed param this.isHeader ([24d5439](https://github.com/CoCreate-app/CoCreate-position/commit/24d5439778ec9f727b3d5f8266733a044b5befb4))
+
 ## [1.1.30](https://github.com/CoCreate-app/CoCreate-position/compare/v1.1.29...v1.1.30) (2022-12-25)
 
 
