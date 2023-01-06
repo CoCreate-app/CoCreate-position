@@ -1,3 +1,11 @@
+## [1.1.37](https://github.com/CoCreate-app/CoCreate-position/compare/v1.1.36...v1.1.37) (2023-01-06)
+
+
+### Bug Fixes
+
+* bump dependencies, worklow [@v3](https://github.com/v3) ([e710f2e](https://github.com/CoCreate-app/CoCreate-position/commit/e710f2e9ca23daddf8f4b8a14e39386dfdcf064c))
+* edit in github btn styles ([3e8303d](https://github.com/CoCreate-app/CoCreate-position/commit/3e8303db9d72a2c2b277f0d12095664a5e43bbdc))
+
 ## [1.1.36](https://github.com/CoCreate-app/CoCreate-position/compare/v1.1.35...v1.1.36) (2023-01-05)
 
 
