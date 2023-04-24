@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-position/compare/v1.2.6...v1.3.0) (2023-04-24)
+
+
+### Features
+
+* added pwa manifest ([b9edf8a](https://github.com/CoCreate-app/CoCreate-position/commit/b9edf8a022db0d029d141bfbc8dfce3582b8fcd8))
+
 ## [1.2.6](https://github.com/CoCreate-app/CoCreate-position/compare/v1.2.5...v1.2.6) (2023-04-11)
 
 
