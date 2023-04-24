@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.0...v1.3.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* removed uglifyjs-webpack-plugin ([4959d72](https://github.com/CoCreate-app/CoCreate-position/commit/4959d72febee6cfbb98d0632a44a06a0f318c5d3))
+
 # [1.3.0](https://github.com/CoCreate-app/CoCreate-position/compare/v1.2.6...v1.3.0) (2023-04-24)
 
 
