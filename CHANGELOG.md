@@ -1,3 +1,11 @@
+## [1.3.3](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.2...v1.3.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([e1c3053](https://github.com/CoCreate-app/CoCreate-position/commit/e1c3053e553f6ea168e6702626c83649a2290ac3))
+* workflow node version updated  16 ([5ab7aed](https://github.com/CoCreate-app/CoCreate-position/commit/5ab7aed070d881f8c963453d53c8171854de682b))
+
 ## [1.3.2](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.1...v1.3.2) (2023-04-24)
 
 
