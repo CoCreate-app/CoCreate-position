@@ -1,3 +1,10 @@
+## [1.3.6](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.5...v1.3.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([d7ad651](https://github.com/CoCreate-app/CoCreate-position/commit/d7ad65177346b94319da253d0d94a00b27621c8f))
+
 ## [1.3.5](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.4...v1.3.5) (2023-05-01)
 
 
