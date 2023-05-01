@@ -1,3 +1,10 @@
+## [1.3.7](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.6...v1.3.7) (2023-05-01)
+
+
+### Bug Fixes
+
+* get rect when element is initializing ([0895567](https://github.com/CoCreate-app/CoCreate-position/commit/089556793c9126c205336d5efa2af97945ea1177))
+
 ## [1.3.6](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.5...v1.3.6) (2023-05-01)
 
 
