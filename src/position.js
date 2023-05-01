@@ -52,6 +52,8 @@ position.prototype = {
             });
         }
 
+        this.__setRectInfo();
+
         let positionableEl = this.el
         if (this.dragHandle)
             positionableEl = this.dragHandle
