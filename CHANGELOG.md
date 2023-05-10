@@ -1,3 +1,10 @@
+## [1.3.9](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.8...v1.3.9) (2023-05-10)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([845c74b](https://github.com/CoCreate-app/CoCreate-position/commit/845c74b175cd2e6aa1973c011da9df9969a3995b))
+
 ## [1.3.8](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.7...v1.3.8) (2023-05-06)
 
 
