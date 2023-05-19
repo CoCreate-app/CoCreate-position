@@ -1,3 +1,10 @@
+## [1.3.10](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.9...v1.3.10) (2023-05-19)
+
+
+### Bug Fixes
+
+* update packages to latest version. This commit updates various packages in the dependencies section of the package.json file to their latest published versions, thereby fixing multiple bugs and improving overall performance. ([6e23b06](https://github.com/CoCreate-app/CoCreate-position/commit/6e23b06a2ec42f4d4f2443693ab2faad01c1f8ad))
+
 ## [1.3.9](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.8...v1.3.9) (2023-05-10)
 
 
