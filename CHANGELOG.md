@@ -1,3 +1,11 @@
+## [1.3.14](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.13...v1.3.14) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([3aacf46](https://github.com/CoCreate-app/CoCreate-position/commit/3aacf46f59edc43c5719398bcd210ba25528c0dd))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([67b021e](https://github.com/CoCreate-app/CoCreate-position/commit/67b021e6728caff8dcc622c62e2f1b7ac30e966e))
+
 ## [1.3.13](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.12...v1.3.13) (2023-06-04)
 
 
