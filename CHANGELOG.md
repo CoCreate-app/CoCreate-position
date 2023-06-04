@@ -1,3 +1,10 @@
+## [1.3.13](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.12...v1.3.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([7bc22bb](https://github.com/CoCreate-app/CoCreate-position/commit/7bc22bbe9d34bd8856da9459ab1d39ec7fd3e054))
+
 ## [1.3.12](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.11...v1.3.12) (2023-06-02)
 
 
