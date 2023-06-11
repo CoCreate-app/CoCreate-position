@@ -1,3 +1,10 @@
+## [1.3.26](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.25...v1.3.26) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([90b0020](https://github.com/CoCreate-app/CoCreate-position/commit/90b0020e675497f05c4dcae1d28c170c82635260))
+
 ## [1.3.25](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.24...v1.3.25) (2023-06-11)
 
 
