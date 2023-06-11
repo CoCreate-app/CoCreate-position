@@ -1,3 +1,10 @@
+## [1.3.21](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.20...v1.3.21) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([0276356](https://github.com/CoCreate-app/CoCreate-position/commit/027635632e47d6d042487f1c2d5f6eb6c1b964a2))
+
 ## [1.3.20](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.19...v1.3.20) (2023-06-11)
 
 
