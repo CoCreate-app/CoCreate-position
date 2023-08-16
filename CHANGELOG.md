@@ -1,3 +1,17 @@
+# [1.4.0](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.29...v1.4.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([22532c1](https://github.com/CoCreate-app/CoCreate-position/commit/22532c15ed88af676dd346bed48dec87d1679992))
+* replace -target -selector ([ebf49da](https://github.com/CoCreate-app/CoCreate-position/commit/ebf49da7c075ef14d35d5938a1053f00dd84a575))
+* webpack.config and package.json make use of mode=production instead of process.env ([9b6a33a](https://github.com/CoCreate-app/CoCreate-position/commit/9b6a33a7d5155f173a91a849d1ca941e1a24f784))
+
+
+### Features
+
+* name attribute and variable renamed to key ([3184584](https://github.com/CoCreate-app/CoCreate-position/commit/3184584d8952f4222cedb11c8bdb0c540608176d))
+
 ## [1.3.29](https://github.com/CoCreate-app/CoCreate-position/compare/v1.3.28...v1.3.29) (2023-06-14)
 
 
