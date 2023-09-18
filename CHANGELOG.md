@@ -1,3 +1,11 @@
+## [1.6.2](https://github.com/CoCreate-app/CoCreate-position/compare/v1.6.1...v1.6.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([78dc627](https://github.com/CoCreate-app/CoCreate-position/commit/78dc6277666ebbda7570b34bc54496196734c306))
+* Update CoCreate depndencies to latest versions ([3f3d0a6](https://github.com/CoCreate-app/CoCreate-position/commit/3f3d0a6677004c864b95fa6828a5ef1bb897a95a))
+
 ## [1.6.1](https://github.com/CoCreate-app/CoCreate-position/compare/v1.6.0...v1.6.1) (2023-08-21)
 
 
