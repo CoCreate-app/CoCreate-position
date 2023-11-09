@@ -1,3 +1,11 @@
+## [1.6.8](https://github.com/CoCreate-app/CoCreate-position/compare/v1.6.7...v1.6.8) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([ced5b00](https://github.com/CoCreate-app/CoCreate-position/commit/ced5b00d36ebbffb576bff7da743ea360f68ddb3))
+* update host ([caee36e](https://github.com/CoCreate-app/CoCreate-position/commit/caee36eebb9b2e113948cbb8efef9ff8a7319ed0))
+
 ## [1.6.7](https://github.com/CoCreate-app/CoCreate-position/compare/v1.6.6...v1.6.7) (2023-11-03)
 
 
