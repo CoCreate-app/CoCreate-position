@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/CoCreate-app/CoCreate-position/compare/v1.6.9...v1.7.0) (2023-11-19)
+
+
+### Features
+
+* update dependecies for th latest features and bug fixes ([60a419c](https://github.com/CoCreate-app/CoCreate-position/commit/60a419c460c7b7742af379394af03bf0e765543e))
+
 ## [1.6.9](https://github.com/CoCreate-app/CoCreate-position/compare/v1.6.8...v1.6.9) (2023-11-12)
 
 
