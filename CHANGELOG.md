@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/CoCreate-app/CoCreate-position/compare/v1.8.0...v1.9.0) (2023-11-25)
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([ee2d8d9](https://github.com/CoCreate-app/CoCreate-position/commit/ee2d8d92942e90c815f8588a7d735840748655ee))
+
 # [1.8.0](https://github.com/CoCreate-app/CoCreate-position/compare/v1.7.0...v1.8.0) (2023-11-25)
 
 
