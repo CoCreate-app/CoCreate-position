@@ -1,3 +1,15 @@
+# [1.8.0](https://github.com/CoCreate-app/CoCreate-position/compare/v1.7.0...v1.8.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([c10d89e](https://github.com/CoCreate-app/CoCreate-position/commit/c10d89e13d97391b7ba38f451478b3c9c7d9bde6))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([b1e57b8](https://github.com/CoCreate-app/CoCreate-position/commit/b1e57b803adbb4248097be8c0c4c33c6a0747ac1))
+
 # [1.7.0](https://github.com/CoCreate-app/CoCreate-position/compare/v1.6.9...v1.7.0) (2023-11-19)
 
 
