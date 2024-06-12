@@ -1,3 +1,11 @@
+## [1.9.2](https://github.com/CoCreate-app/CoCreate-position/compare/v1.9.1...v1.9.2) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([5a7fc25](https://github.com/CoCreate-app/CoCreate-position/commit/5a7fc25c924c0a26fb695d959ba325c5b68c0f63))
+* svg icon class ([60dfb35](https://github.com/CoCreate-app/CoCreate-position/commit/60dfb35b65fd6c50bd79691ae6409e7bcedeb701))
+
 ## [1.9.1](https://github.com/CoCreate-app/CoCreate-position/compare/v1.9.0...v1.9.1) (2024-04-29)
 
 
