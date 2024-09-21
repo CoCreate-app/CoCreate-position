@@ -1,3 +1,10 @@
+## [1.9.3](https://github.com/CoCreate-app/CoCreate-position/compare/v1.9.2...v1.9.3) (2024-09-21)
+
+
+### Bug Fixes
+
+* comment postion.js script ([7a22366](https://github.com/CoCreate-app/CoCreate-position/commit/7a223667236511f5bcfd265503b9b68d5e3b6ca5))
+
 ## [1.9.2](https://github.com/CoCreate-app/CoCreate-position/compare/v1.9.1...v1.9.2) (2024-06-12)
 
 
