@@ -1,3 +1,10 @@
+## [1.10.1](https://github.com/CoCreate-app/CoCreate-position/compare/v1.10.0...v1.10.1) (2025-04-11)
+
+
+### Bug Fixes
+
+* update observer observe param to type and and attributeName to attributeFilter ([0f92890](https://github.com/CoCreate-app/CoCreate-position/commit/0f928908c52fda73d8210cde1a4cbb8126c2dd62))
+
 # [1.10.0](https://github.com/CoCreate-app/CoCreate-position/compare/v1.9.3...v1.10.0) (2024-11-04)
 
 
